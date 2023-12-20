@@ -3,14 +3,20 @@ author:
   name: 触目Tactileye
   email: Tactileeye@gmail.com
 logo: https://media.discordapp.net/attachments/1073069076253003901/1122525158784110714/Tactileye_small.png?ex=65917285&is=657efd85&hm=6803747894c3bbb437aee15f1b81f5acad5fd8a1f6db9bc42f3a57a7329b87f9&=&width=600&height=600
+
+default_lang: "en"
+languages: ["en", "es"]
+
 description: >
   触目Tactileye是一个致力于研究触觉艺术的艺术小组，主要创作一种我们称为触摸式戏剧的艺术形式。在屏蔽视觉的前提下，使用道具或者动作来创造感官，并通过这些形式来讲故事。我们定期组织集体排练、个人创作、线上读书会和公众工作坊。艺术小组一直保持去中心化、开源开放、自由流动的状态，欢迎任何对触觉艺术感兴趣的人加入，以任何他们自愿的形式参与和组织触目的活动
+  
 
   Tactileye Tactileye is an art group dedicated to the study of tactile art, focusing on creating an art form we call tactile theater. Props or movement are used to create sensations while blocking out sight, and stories are told through these forms. We regularly organize group rehearsals, individual work, online readings and public workshops. The art group has always remained decentralized, open source and free flowing, and welcomes anyone interested in tactile art to join, participate and organize tactile activities in any form they wish!
 
 
 plugins:
   - jekyll-relative-links
+  - jekyll-multiple-languages-plugin
 relative_links:
   enabled: true
   collections: true
@@ -23,5 +29,11 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+# Plugin-specific settings
+language_plugin:
+  default_language: "en"
+  languages: ["en", "es"]
+  exclude_from_localization: ["assets"]
 
 theme: jekyll-theme-minimal
