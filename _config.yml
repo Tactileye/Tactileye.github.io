@@ -1,3 +1,14 @@
+title: 触目Tactileye
+author:
+  name: 触目Tactileye
+  email: Tactileeye@gmail.com
+logo: https://media.discordapp.net/attachments/1073069076253003901/1122525158784110714/Tactileye_small.png?ex=65917285&is=657efd85&hm=6803747894c3bbb437aee15f1b81f5acad5fd8a1f6db9bc42f3a57a7329b87f9&=&width=600&height=600
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,4 +24,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
