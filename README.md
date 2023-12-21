@@ -5,4 +5,6 @@
 
 Tactileye is a tactile art collective dedicated to open-source study of tactile art, focusing on creating an art form we call tactile theater. We regularly organize group rehearsals, individual work, online readings and public workshops. We welcome anyone interested in tactile art to join, participate and organize tactile activities in any form they wish!
 
+[Documentation/记录](./documentation/documentation.md)
+
 

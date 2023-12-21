@@ -6,8 +6,8 @@ logo: https://media.discordapp.net/attachments/1073069076253003901/1122525158784
 
 description: >
   （上图为触目logo，一只手指触摸着眼睛）
-  <br>
-  Table of Content 目录
+  <br><br>
+  Table of Content 目录<br>
   <a href="./documentation/documentation.md">Documentation 记录</a>
 
 plugins:
