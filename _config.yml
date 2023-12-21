@@ -9,7 +9,7 @@ description: >
   <br><br>
   Table of Content 目录<br>
 
-  <a href="/documentation/documentation.html">Documentation 记录</a>
+  <a href="/documentation/documentation.html">Documentation 记录 绝对路径</a>
   
 
 plugins:
