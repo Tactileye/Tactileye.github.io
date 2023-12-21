@@ -4,11 +4,11 @@ author:
   email: Tactileeye@gmail.com
 logo: https://media.discordapp.net/attachments/1073069076253003901/1122525158784110714/Tactileye_small.png?ex=65917285&is=657efd85&hm=6803747894c3bbb437aee15f1b81f5acad5fd8a1f6db9bc42f3a57a7329b87f9&=&width=600&height=600
 
-
-
 description: >
-  
-  <a href="./documentation/documentation.md">Documentation</a>
+  （上图为触目logo，一只手指触摸着眼睛）
+  <br>
+  Table of Content 目录
+  <a href="./documentation/documentation.md">Documentation 记录</a>
 
 plugins:
   - jekyll-relative-links
