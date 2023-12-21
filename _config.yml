@@ -5,7 +5,7 @@ author:
 logo: https://media.discordapp.net/attachments/1073069076253003901/1122525158784110714/Tactileye_small.png?ex=65917285&is=657efd85&hm=6803747894c3bbb437aee15f1b81f5acad5fd8a1f6db9bc42f3a57a7329b87f9&=&width=600&height=600
 
 default_lang: "en"
-languages: ["en", "es"]
+languages: ["en", "cn"]
 
 description: >
   Tactileye is an art group dedicated to the study of tactile art, focusing on creating an art form we call tactile theater. Props or movement are used to create sensations while blocking out sight, and stories are told through these forms. We regularly organize group rehearsals, individual work, online readings and public workshops. The art group has always remained decentralized, open source and free flowing, and welcomes anyone interested in tactile art to join, participate and organize tactile activities in any form they wish!
@@ -30,7 +30,7 @@ include:
 # Plugin-specific settings
 language_plugin:
   default_language: "en"
-  languages: ["en", "es"]
+  languages: ["en", "cn"]
   exclude_from_localization: ["assets"]
 
 theme: jekyll-theme-minimal
