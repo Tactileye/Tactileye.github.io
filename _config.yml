@@ -9,8 +9,8 @@ description: >
   <br><br>
   Table of Content 目录<br>
 
-  <a href="/documentation/documentation.html">Documentation 记录 绝对路径</a>
-  
+  <a href="/documentation/documentation.html">Documentation 记录</a>
+#路径需要是以/开头的，而不是./开头的
 
 plugins:
   - jekyll-relative-links
