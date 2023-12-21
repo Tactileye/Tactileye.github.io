@@ -11,9 +11,6 @@ description: >
 
   <a href="./documentation/documentation.html">Documentation 记录</a>
   
-  <br>
-
-  [Documentation/记录](./documentation/documentation.md)
 
 plugins:
   - jekyll-relative-links
