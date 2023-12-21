@@ -26,7 +26,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-github.is_user_page: false
+is_user_page: false
 
 # Plugin-specific settings
 default_lang: "en"
