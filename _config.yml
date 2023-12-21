@@ -35,3 +35,19 @@ languages: ["en", "cn"]
 exclude_from_localization: ["assets"]
 
 remote_theme: alembic-jekyll-theme
+
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
