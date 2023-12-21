@@ -34,4 +34,4 @@ default_lang: "en"
 languages: ["en", "cn"]
 exclude_from_localization: ["assets"]
 
-theme: jekyll-theme-minimal
+remote_theme: alembic-jekyll-theme
